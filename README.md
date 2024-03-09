@@ -14,14 +14,6 @@ Within each category, you'll find a handpicked selection of YouTube courses reco
 ### 2. Read Reviews
 Make informed decisions by reading reviews and ratings from other users who have completed the courses. Their insights and experiences can help you choose the courses that best suit your learning goals.
 
-## Getting Started
-
-To start using StudySpotter, follow these simple steps:
-
-1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/your-username/StudySpotter.git
-
 ## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
