@@ -4,6 +4,8 @@
 
 Welcome to StudySpotter! This tool is designed to simplify your journey in finding high-quality, free educational content on YouTube, specifically focusing on computer science subjects. Whether you're a student, a professional looking to expand your skill set, or simply curious about a particular topic, StudySpotter is here to guide you through the vast ocean of online learning resources.
 
+## VISIT - https://ayushstudyspotter.netlify.app/
+
 ## Why Study Spotter?
 
 With the abundance of content available on YouTube, finding the right courses that suit your learning style and needs can be overwhelming. StudySpotter aims to address this challenge by curating a collection of the best free YouTube courses in various computer science subjects, making it easier for you to discover and access valuable learning materials.
